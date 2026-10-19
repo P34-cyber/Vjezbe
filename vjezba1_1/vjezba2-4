@@ -1,1 +1,32 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+      <ol>
+        <li>Samsung</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Panasoic</li>
+        <li>Motorola</li>
+      </ol>
+      <ul>
+        <li>Samsung</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Panasoic</li>
+        <li>Motorola</li>
+      </ul>
+      <dl>
+        <dt>Samsung</dt>
+          <dd>galaxy S23</dd>
+          <dd>Galaxy S23+</dd>
+          <dd>Glaxy S23 Ultra</dd>
+        <dt>Apple</dt>
+          <dd>Iphone 12</dd>
+          <dd>Iphone 13</dd>
+          <dd>Iphone 14 plus</dd>
+      </dl>
+    </body>
+</html>
