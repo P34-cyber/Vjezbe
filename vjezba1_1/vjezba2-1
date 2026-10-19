@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta>
+    </head>
+    <body>
+        <h1>Studiraj na VVG-u</h1>
+        <h2>Prijediplomski studiji</h2>
+        <p>Predstavnice Veleučilišta, prodekanica za znanost prof. dr. sc. Sanja Kalambura i dr. Ana Mirenić, bile su u radnom posjetu Tongji Sveučilištu u kineskom gradu Šangaju. Ovaj je posjet bio u sklopu dvogodinšnjeg projekta „Zelena optika – istraživački projekt o utjecaju oftalmoloških optičkih pomagala na okoliš”.</p>
+        <p>Posjet Kini znači završetak spomenutog projekta, ali i nastavak suradnje na drugim projektima, o čemu se razgovaralo i ovom prilikom u Šangaju.</p>
+        <figure>
+        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2ySAV2EDuYs_vVpaH6O2hH_JpwhdAVDfRAMxxoAHTA&s" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2ySAV2EDuYs_vVpaH6O2hH_JpwhdAVDfRAMxxoAHTA&s">
+        </a>
+        <figcaption>
+        Slika 1
+        </figcaption>
+        </figure>
+        <figure>
+        <a href="https://unirank.org/hr/uni/veleuciliste-velika-gorica" target="_blank">
+        <img src="images/images.jfif">
+        </a>
+        <figcaption>
+        Slika 2
+        </figcaption>
+        </figure>
+    </body>
+</html>
