@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        
+        <form action="korisnici.php" method="post">
+            <label for="ime">First Name*</label><br>
+            <input type="text" id="ime" name="ime"><br>
+            <label for="prezime">Last Name*</label><br>
+            <input type="text" id="prezime" name="prezime"><br>
+            <label for="email">Your E-mail*</label><br>
+            <input type="email" id="email" name="email"><br>
+            <label for="zemlja">Country*</label><br>
+            <select name="zemlja" id="zemlja">
+                <option value="Cro">Croatia</option>
+                <option value="UK">United Kingdom</option>
+                <option value="Ger">Germany</option>
+                <option value="Fra">France</option>
+            </select><br>
+            <label for="poruka">Message</label><br>
+            <textarea  class="form-control" id="poruka" name="poruka" placeholder="Write something...">
+            </textarea><br>
+            <input type="submit"  value="Send">
+            <input type="reset"  value="Reset">
+            </form>
+            
+    </body>
+</html>
